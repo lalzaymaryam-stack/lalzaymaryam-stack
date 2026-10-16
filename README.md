@@ -1,10 +1,11 @@
 Hi, I’m Maryam! 👋
 
 🎓 Computer Science Student
+
 🔐 Aspiring Cybersecurity Professional
-💻 Learning Python, JavaScript, and Linux
-🚀 Developing Programming and Software Development Skills
 
-I’m building my technical skills step by step through hands-on practice and personal projects.
+💻 Currently Learning: Python, JavaScript, and Linux
 
-🌱 Always learning, building, and growing.
+🚀 My Goal: To build programming skills through practice and projects.
+
+🌱 Learning step by step, one project at a time.
